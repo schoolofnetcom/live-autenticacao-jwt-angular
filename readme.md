@@ -1,4 +1,4 @@
-#Para instalar
+# Para instalar
 
 * composer install
 * php artisan key:generate
@@ -9,7 +9,7 @@
 
 Enfim, para executar a aplicação rode **php artisan serve**
 
-#Instalar aplicação Angular
+# Instalar aplicação Angular
 
 * npm install
 
