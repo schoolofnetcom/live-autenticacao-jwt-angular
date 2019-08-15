@@ -22,6 +22,8 @@ export class AuthGuardService implements CanActivate {
         //         throwError(false)
         //     })
         // )
+      
+      return true;
     }
 
     hasToken() {
